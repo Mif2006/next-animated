@@ -1,6 +1,6 @@
 export const slideFromTop = {
     hidden: { y: "-100%" },
-    visible: (i) => ({
+    visible: (i: any) => ({
       y: "0",
       transition: {
         delay: i * 0.2, // delay each element by 0.2 seconds
@@ -11,7 +11,7 @@ export const slideFromTop = {
   
   export const slideFromBottom = {
     hidden: { y: "100%", rotate: 0, scaleY: 1 },
-    visible: (i) => ({
+    visible: (i: any) => ({
       y: "0",
       scaleY: -1,
       transition: {
