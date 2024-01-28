@@ -19,9 +19,9 @@ const VidContent = () => {
           height="350"
           src="https://www.youtube.com/embed/GSOgbZ396MI?si=hKldlnw3qkCi8nF9"
           title="YouTube video player"
-          frameborder="0"
+          frameBorder="0"
           allow="accelerometer; fullscreen; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowfullscreen
+          allowFullScreen
           className="rounded-lg w-[450px] md:w-[590px] mr-6"
         ></iframe>
       </div>
