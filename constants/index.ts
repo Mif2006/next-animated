@@ -50,31 +50,31 @@ export const Socials = [
 
 export const Projects = [
   {
-    name: "Project 1",
+    name: "Star Wars",
     src: "/starwars.png",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   },
   {
-    name: "Youtube",
+    name: "Space",
     src: "/SpaceWebsite.png",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   },
   {
-    name: "Discord",
+    name: "Matrix",
     src: "/matrix.png",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   },
   {
-    name: "Discord",
+    name: "Component",
     src: "/skills.png",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   },
   {
-    name: "Discord",
+    name: "Unicorn",
     src: "/webapp.png",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
